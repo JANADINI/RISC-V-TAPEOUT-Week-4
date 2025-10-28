@@ -1,5 +1,5 @@
 
-# Day 8: Circuit Design and SPICE Simulation
+# Day 1: Circuit Design and SPICE Simulation
 
 A comprehensive guide to understanding SPICE simulation and NMOS transistor operation for circuit design.
 
