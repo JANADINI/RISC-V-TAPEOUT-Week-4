@@ -326,6 +326,8 @@ ngspice 1 -> plot -vdd#branch
 **Expected Output:** I_D vs V_DS curves for different V_GS values
 
 ![image](https://github.com/JANADINI/RISC-V-TAPEOUT-Week-4/blob/main/Day-1/Pictures/model%20description)
+
+![image](https://github.com/JANADINI/RISC-V-TAPEOUT-Week-4/blob/main/Day-1/Pictures/vdd%20branch)
 ---
 
 ### Lab 2: NMOS Transfer Characteristics
