@@ -607,9 +607,9 @@ V_m ≈ 1.15-1.20V
 ```
 
 **This configuration provides:**
-- ✅ Symmetric switching
-- ✅ No duty cycle distortion
-- ✅ Predictable timing
+- 🔸 Symmetric switching
+- 🔸 No duty cycle distortion
+- 🔸 Predictable timing
 
 ---
 
