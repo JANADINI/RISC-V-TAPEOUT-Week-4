@@ -2,7 +2,7 @@
 
 Complete guide to CMOS inverter VTC analysis, switching threshold derivation, and dynamic characterization using Sky130 PDK.
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Voltage Transfer Characteristics (VTC) Simulations](#voltage-transfer-characteristics-vtc-simulations)
 - [Sky130 Labs: VTC and Transient Analysis](#sky130-labs-vtc-and-transient-analysis)
@@ -14,7 +14,7 @@ Complete guide to CMOS inverter VTC analysis, switching threshold derivation, an
 
 ---
 
-## 📊 Voltage Transfer Characteristics (VTC) Simulations
+##  Voltage Transfer Characteristics (VTC) Simulations
 
 ### SPICE Deck Creation for CMOS Inverter
 
@@ -84,7 +84,7 @@ plot out vs in
 
 ---
 
-## 🧪 Sky130 Labs: VTC and Transient Analysis
+##  Sky130 Labs: VTC and Transient Analysis
 
 ### Lab Setup
 
@@ -242,7 +242,7 @@ t_p = (t_pLH + t_pHL) / 2
 
 ---
 
-## 🎯 Static Behavior Evaluation
+##  Static Behavior Evaluation
 
 ### Key Parameters Defining CMOS Inverter Robustness
 
@@ -255,7 +255,7 @@ t_p = (t_pLH + t_pHL) / 2
 
 ---
 
-## 🔍 Switching Threshold (V<sub>m</sub>) Analysis
+##  Switching Threshold (V<sub>m</sub>) Analysis
 
 ### Definition
 
@@ -357,7 +357,7 @@ V_out
 
 ---
 
-## 📐 Analytical Derivations
+##  Analytical Derivations
 
 ### Deriving V<sub>m</sub> as a Function of (W/L) Ratios
 
@@ -519,7 +519,7 @@ Requires **stronger NMOS** (larger W<sub>n</sub>):
 
 ---
 
-## 🔬 Static & Dynamic Simulation Studies
+##  Static & Dynamic Simulation Studies
 
 ### Experiment Overview
 
@@ -631,7 +631,7 @@ V_m ≈ 1.15-1.20V
 
 ---
 
-## ⚙️ Applications in Clock Networks
+##  Applications in Clock Networks
 
 ### Clock Tree Synthesis (CTS) Requirements
 
@@ -736,7 +736,7 @@ t_pLH(buffer) ≥ t_hold(FF) + t_skew
 
 ---
 
-## 📚 Quick Reference
+##  Quick Reference
 
 ### Key Equations
 
@@ -773,7 +773,7 @@ t_pLH = f(R_ON,p, C_L)  → Depends on PMOS strength
 
 ---
 
-## 🛠️ Common ngspice Commands
+##  Common ngspice Commands
 
 ### VTC Analysis
 ```bash
@@ -800,7 +800,7 @@ ngspice 4 -> meas tran tplh TRIG v(in) VAL=0.9 RISE=1 TARG v(out) VAL=0.9 RISE=1
 
 ---
 
-## 🔗 References
+##  References
 
 - [Sky130 PDK Documentation](https://skywater-pdk.readthedocs.io/)
 - [ngspice Manual](http://ngspice.sourceforge.net/docs.html)
@@ -808,4 +808,4 @@ ngspice 4 -> meas tran tplh TRIG v(in) VAL=0.9 RISE=1 TARG v(out) VAL=0.9 RISE=1
 
 ---
 
-**🚀 Master CMOS switching characteristics and dynamic behavior!**
+
