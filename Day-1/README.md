@@ -1,4 +1,4 @@
-#DAY-1: Circuit Design and SPICE Simulation Workshop
+# DAY-1: Circuit Design and SPICE Simulation Workshop
 
 A comprehensive guide to CMOS circuit design and SPICE simulation using Sky130 PDK.
 
