@@ -333,4 +333,4 @@ ngspice 5 -> plot gain
 
 ---
 
-**🚀 Design robust CMOS circuits across PVT variations!**
+
