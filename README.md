@@ -8,7 +8,7 @@ Complete hands-on workshop for CMOS circuit design, SPICE simulation, and perfor
 
 ##  Workshop Contents
 
-### [Day 1: SPICE Fundamentals & NMOS Basics](./day1_spice_fundamentals.md)
+### [Day 1: SPICE Fundamentals & NMOS Basics](https://github.com/JANADINI/RISC-V-TAPEOUT-Week-4/tree/main/Day-1)
 Learn SPICE simulation basics and NMOS transistor fundamentals
 - SPICE deck structure and syntax
 - NMOS operating regions (Cut-off, Linear, Saturation)
@@ -16,7 +16,7 @@ Learn SPICE simulation basics and NMOS transistor fundamentals
 - Drain current equations and derivations
 - **Lab:** I<sub>D</sub>-V<sub>DS</sub> characteristics
 
-### [Day 2: Velocity Saturation & CMOS Inverter VTC](./day2_velocity_saturation.md)
+### [Day 2: Velocity Saturation & CMOS Inverter VTC]([./day2_velocity_saturation.md](https://github.com/JANADINI/RISC-V-TAPEOUT-Week-4/tree/main/Day-2)
 Understand short-channel effects and voltage transfer characteristics
 - Long channel vs short channel comparison
 - Velocity saturation physics
@@ -24,7 +24,7 @@ Understand short-channel effects and voltage transfer characteristics
 - Load line construction for VTC
 - **Labs:** I<sub>D</sub>-V<sub>GS</sub> analysis, VTC plotting
 
-### [Day 3: Switching Threshold & Dynamic Analysis](./day3_switching_threshold.md)
+### [Day 3: Switching Threshold & Dynamic Analysis]([./day3_switching_threshold.md](https://github.com/JANADINI/RISC-V-TAPEOUT-Week-4/tree/main/Day-3)
 Analyze switching threshold and propagation delays
 - Switching threshold (V<sub>m</sub>) derivation
 - Analytical W/L ratio calculations
@@ -32,14 +32,14 @@ Analyze switching threshold and propagation delays
 - Delay balancing techniques
 - **Labs:** VTC extraction, transient analysis
 
-### [Day 4: Noise Margin Analysis](./day4_noise_margin.md)
+### [Day 4: Noise Margin Analysis]([./day4_noise_margin.md](https://github.com/JANADINI/RISC-V-TAPEOUT-Week-4/tree/main/Day-4)
 Evaluate circuit robustness through noise margin characterization
 - Noise margin definitions (NM<sub>H</sub>, NM<sub>L</sub>)
 - Critical voltage parameters (V<sub>IL</sub>, V<sub>IH</sub>, V<sub>OL</sub>, V<sub>OH</sub>)
 - Effect of device sizing on noise margins
 - **Lab:** Noise margin extraction and analysis
 
-### [Day 5: PVT Variations](./day5_pvt_variations.md)
+### [Day 5: PVT Variations](https://github.com/JANADINI/RISC-V-TAPEOUT-Week-4/tree/main/Day-5)
 Study circuit behavior under process, voltage, and temperature variations
 - Power supply variation impact
 - Device variation sources (etching, oxide thickness)
