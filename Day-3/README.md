@@ -151,6 +151,8 @@ ngspice 1 -> plot out vs in
 - Logic HIGH output (≈1.8V) at low input
 - Sharp transition region
 - Logic LOW output (≈0V) at high input
+- ![image](https://github.com/JANADINI/RISC-V-TAPEOUT-Week-4/blob/main/Day-3/Pictures/inv_vtc.png)
+- ![image](https://github.com/JANADINI/RISC-V-TAPEOUT-Week-4/blob/main/Day-3/Pictures/inv_vtc_out-vs-in.png)
 
 **Key Parameters to Extract:**
 - **V<sub>IL</sub>** - Maximum input LOW voltage
@@ -210,6 +212,8 @@ ngspice 1 -> plot out vs time in
 ```
 
 **Expected Output:** Waveforms showing input and output with propagation delays
+![image](https://github.com/JANADINI/RISC-V-TAPEOUT-Week-4/blob/main/Day-3/Pictures/inv_tran.png)
+![image](https://github.com/JANADINI/RISC-V-TAPEOUT-Week-4/blob/main/Day-3/Pictures/inv_tran_out-vs-in.png)
 
 ---
 
@@ -607,9 +611,9 @@ V_m ≈ 1.15-1.20V
 ```
 
 **This configuration provides:**
-- 🔸 Symmetric switching
-- 🔸 No duty cycle distortion
-- 🔸 Predictable timing
+-  Symmetric switching
+-  No duty cycle distortion
+-  Predictable timing
 
 ---
 
