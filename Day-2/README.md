@@ -266,7 +266,8 @@ ngspice 1 -> plot -vdd#branch
 ```
 
 **Expected Output:** I<sub>DS</sub> vs V<sub>DS</sub> curves for multiple V<sub>GS</sub> values
-
+![image](https://github.com/JANADINI/RISC-V-TAPEOUT-Week-4/blob/main/Day-2/Pictures/idvds.png)
+![image](https://github.com/JANADINI/RISC-V-TAPEOUT-Week-4/blob/main/Day-2/Pictures/idvds_vdd_branch.png)
 **What to Observe:**
 - Linear region at low V<sub>DS</sub>
 - Saturation region at high V<sub>DS</sub>
@@ -316,7 +317,8 @@ ngspice 1 -> plot -vdd#branch
 ```
 
 **Expected Output:** I<sub>DS</sub> vs V<sub>GS</sub> transfer characteristic
-
+![image](https://github.com/JANADINI/RISC-V-TAPEOUT-Week-4/blob/main/Day-2/Pictures/idvgs.png)
+![image](https://github.com/JANADINI/RISC-V-TAPEOUT-Week-4/blob/main/Day-2/Pictures/idvgs_vdd_branch.png)
 **What to Observe:**
 - Quadratic behavior at low V<sub>GS</sub>
 - Transition to linear at high V<sub>GS</sub>
