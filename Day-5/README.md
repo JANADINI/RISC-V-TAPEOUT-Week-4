@@ -124,6 +124,8 @@ ngspice day5_inv_supplyvariation_Wp1_Wn036.spice
 
 **Output:** 6 VTC curves for V<sub>DD</sub> = 1.8V, 1.6V, 1.4V, 1.2V, 1.0V, 0.8V
 
+![image](https://github.com/JANADINI/RISC-V-TAPEOUT-Week-4/blob/main/Day-5/Pictures/inv_devicevariation.png)
+![image](https://github.com/JANADINI/RISC-V-TAPEOUT-Week-4/blob/main/Day-5/Pictures/inv_devicevariation_out-vs-in.png)
 ---
 
 ##  Device Variation
