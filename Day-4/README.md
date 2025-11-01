@@ -591,6 +591,8 @@ ngspice 1 -> plot out vs in
 
 **Expected Output:** VTC curve with clear transition region
 
+![image](https://github.com/JANADINI/RISC-V-TAPEOUT-Week-4/blob/main/Day-4/Pictures/inv_noisemargin.png)
+![image](https://github.com/JANADINI/RISC-V-TAPEOUT-Week-4/blob/main/Day-4/Pictures/inv_noisemargin_out-vs-in.png)
 ---
 
 ### Extracting Noise Margin Parameters
